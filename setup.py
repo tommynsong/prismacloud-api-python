@@ -35,7 +35,7 @@ setuptools.setup(
         'update_checker'
     ],
     extras_require={
-        'test': ['coverage==7.6.10', 'responses==0.25.3']
+        'test': ['coverage==7.8.0', 'responses==0.25.3']
     },
     python_requires='>=3.6'
 )
